@@ -8,7 +8,13 @@ Portfolio website created using Bootstrap
 - Jquery
 - bootstrap
 
+# Jquery Plugins Used
+- Isotope
+- Magnific Popup
+- Owl Carousel
+
 # Live Site
+
 
 # Screenshots
 ![1](https://github.com/Evilking009/Portfolio2/assets/4027728/b09fc987-db92-4181-a942-f836edd13068)
