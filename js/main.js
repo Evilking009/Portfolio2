@@ -38,7 +38,7 @@ $(document).ready(function () {
                 items: 2
             }
         }
-    })
+    });
 
 
     // Sticky Navigation Menu
@@ -52,7 +52,7 @@ $(document).ready(function () {
             $(window).on('scroll', function () {
 
                 let scroll = $(window).scrollTop()
-                ;
+                    ;
                 if (scroll >= nav_offset_top) {
                     $('.header_area .main-menu').addClass('navbar_fixed');
                 } else {
