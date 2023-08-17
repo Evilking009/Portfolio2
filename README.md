@@ -1,5 +1,5 @@
 # Portfolio2
-Portfolio website created using Bootstrap
+A Basic Portfolio website created using Bootstrap & JQuery
 
 # Technology
 - Html
